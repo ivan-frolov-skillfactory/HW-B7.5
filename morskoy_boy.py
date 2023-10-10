@@ -134,7 +134,6 @@ class Game:
             num += 1
             
     def start(self):
-        # self.greet()
         self.loop()
 
 class Ship:
